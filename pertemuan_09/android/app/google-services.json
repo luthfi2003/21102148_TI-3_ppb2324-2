@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "228705649518",
+    "project_id": "prakflutterfirebase-43945",
+    "storage_bucket": "prakflutterfirebase-43945.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228705649518:android:82f721a096c6f93078377f",
+        "android_client_info": {
+          "package_name": "com.example.pertemuan_09"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228705649518-4ou0rdvv08fski4titqs3aolfiudcd3f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pertemuan_09",
+            "certificate_hash": "1f5bb397d989b3eef0086fad2593994300307d44"
+          }
+        },
+        {
+          "client_id": "228705649518-cf8j6fro6okg40v08761akdri9jla9j7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcX2LANLmqBhLrAzCLRRp9xBR3nGmwYMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228705649518-cf8j6fro6okg40v08761akdri9jla9j7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "228705649518-3rpnii9unp36mf1tttj6kpktarhuqh4r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pertemuan09"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
